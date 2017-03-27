@@ -18,12 +18,12 @@ header h1{
     line-height: 50px;
 }
 aside{
-    height: 600px;
+    height: 650px;
     background-color: #23272d;
     border: 1px solid #3e72d8;
 }
 section{
-    height:600px;
+    height:650px;
     background-color: #23272d;
     border: 1px solid #3e72d8;
         overflow-y: scroll;
