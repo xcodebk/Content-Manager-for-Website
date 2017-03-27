@@ -113,3 +113,6 @@ td, th {
     text-align: left;
     padding: 8px;
 }
+td button {
+    color:white;
+}
