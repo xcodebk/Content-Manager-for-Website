@@ -1,0 +1,21 @@
+{
+  "name": "adminnodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "decode-html": "^1.0.2",
+    "express": "~4.14.1",
+    "hbs": "~4.0.1",
+    "install": "^0.8.7",
+    "mongoose": "^4.9.2",
+    "morgan": "~1.7.0",
+    "npm": "^4.4.4",
+    "serve-favicon": "~2.3.2"
+  }
+}
