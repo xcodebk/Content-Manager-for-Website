@@ -8,4 +8,6 @@ CKEDITOR.editorConfig = function( config ) {
 	 config.language = 'vi';
 	 config.htmlEncodeOutput = true;
 	// config.uiColor = '#AADC6E';
+config.extraPlugins = 'uploadimage';
+
 };
